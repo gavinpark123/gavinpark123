@@ -20,3 +20,6 @@ Python | Java | JavaScript | C | Node.js | SQL | SQLite | React | Git | Unix | C
     <img src="images/ig.png" alt="My Instagram" width="125" height="33">
   </a>
 </p>
+
+Email: [gavinpark123@gmail.com](gavinpark123@gmail.com) or [gpark123@bu.edu](gpark123@bu.edu)  
+📬 For any inquiries or if you just want to chat, feel free to shoot me an email or connect with me on any social media!
