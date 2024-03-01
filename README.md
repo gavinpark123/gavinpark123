@@ -13,10 +13,10 @@ Below are the some of the relevant languages and technical tools I utilize in my
 Python | Java | JavaScript | C | Node.js | SQL | SQLite | React | Git | Unix | Cooking ❌
 ## How to Reach Me 📩
 <a href="https://www.linkedin.com/in/gavin-park-627005221/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="My LinkedIn Profile" width="100" height="33">
+  <img src="images/linkedin" alt="My LinkedIn Profile" width="100" height="33">
 </a>
 <a href="https://www.instagram.com/gav.park/">
-  <img src="https://images.vexels.com/media/users/3/137201/isolated/preview/83b5f2a86fa0ec9f938664da94a9bc55-instagram-silhouette-strich-logo.png" alt="My Instagram" width="100" height="100">
+  <img src="images/ig" alt="My Instagram" width="100" height="100">
 </a>
 
 <!--
