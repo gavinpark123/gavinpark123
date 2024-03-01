@@ -12,12 +12,14 @@ I'm currently exercising and refining my expertise in software development, taki
 Below are the some of the relevant languages and technical tools I utilize in my work:  
 Python | Java | JavaScript | C | Node.js | SQL | SQLite | React | Git | Unix | Cooking ❌
 ## How to Reach Me 📩
-<a href="https://www.linkedin.com/in/gavin-park-627005221/">
-  <img src="images/linkedin" alt="My LinkedIn Profile" width="100" height="33">
-</a>
-<a href="https://www.instagram.com/gav.park/">
-  <img src="images/ig" alt="My Instagram" width="100" height="100">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/gavin-park-627005221/">
+    <img src="images/linkedin.png" alt="My LinkedIn Profile" width="100" height="33">
+  </a>
+  <a href="https://www.instagram.com/gav.park/">
+    <img src="images/ig.png" alt="My Instagram" width="100" height="33">
+  </a>
+</p>
 
 <!--
 **gavinpark123/gavinpark123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
