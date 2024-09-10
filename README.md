@@ -7,10 +7,10 @@ I'm currently in the process of obtaining my CompTIA Security+ certificate, taki
 * 🌱 Practicing LeetCode and learning JavaScript, React, and Node.js whenever I get the chance
 * 👨🏻‍💻 Currently designing an interactive website for National Debt Law, a debt insurance company other projects available here on [GitHub](https://github.com/gavinpark123)
 * 🥋 Future Goals: Become a master in problem solving in Python, Java, Javascript, and share my knowledge with like-minded coders
-* ⛹🏻‍♂️ Fun Fact: I have the same birthday as Lebron James (I inherited his basketball skills 😁)
+* ⛹🏻‍♂️ Fun Fact: I have the same birthday as Lebron James (I am his reincarnation 😁)
 ## My Skills 🚀
 Below are the some of the relevant languages and technical tools I utilize in my work:  
-Python | Java | JavaScript | C | Node.js | SQL | SQLite | React | Git | Unix | Cooking ❌
+Python | C | x86 Assembly | Unix | Java | SQL | SQLite | Javascript | Node.js | React | HTML | CSS | Cooking ❌
 ## How to Reach Me 📩
 <p>
   <a href="https://www.linkedin.com/in/gavin-park-627005221">
