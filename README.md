@@ -3,10 +3,10 @@ Welcome to my GitHub profile! I'm an ambitious coder looking to break into the c
 ## About Me 🙋🏻‍♂️
 I'm currently in the process of obtaining my CompTIA Security+ certificate, taking every opportunity I get to challenge myself and broaden my knowledge of coding. I enjoy coding for not only the end product, but for the effort and practice it takes to get there! I love breaking a coding challenge down step by step and eventually coming to the inevitable solution! 👾
 * 📚 I'm a Computer Science student at Boston University with a minor in Business
-* 💾 Recently worked as a IT Security Intern at New Jigu Trading Corp
-* 🌱 Practicing LeetCode and learning JavaScript, React, and Node.js whenever I get the chance
+* 💾 Recently worked as a IT Support Intern at New Jigu Trading Corp
+* 🌱 Practicing LeetCode and learning Python, Linux (Bash/Shell Scripting), and SQL whenever I get the chance
 * 👨🏻‍💻 Currently designing an interactive website for National Debt Law, a debt insurance company other projects available here on [GitHub](https://github.com/gavinpark123)
-* 🥋 Future Goals: Become a master in problem solving in Python, Java, Javascript, and share my knowledge with like-minded coders
+* 🥋 Future Goals: Become a master in problem solving in Python, Linux, and SQL and share my knowledge with like-minded coders
 * ⛹🏻‍♂️ Fun Fact: I have the same birthday as Lebron James (I am his reincarnation 😁)
 ## My Skills 🚀
 Below are the some of the relevant languages and technical tools I utilize in my work:  
